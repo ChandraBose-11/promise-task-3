@@ -1,0 +1,16 @@
+
+body{
+    background-color:whitesmoke;
+    text-align: center !important;
+}
+.container {
+    background-color: antiquewhite;
+}
+.container-fluid{
+    text-align: center !important;
+}
+#weather-info{
+    text-align: center !important;
+    margin-left: 30% !important;
+    color: black;
+}
